@@ -63,6 +63,11 @@
     <Compile Include="Assets\Task1\Src\ClickCounterController.cs" />
     <Compile Include="Assets\Task1\Src\ClickCounterModel.cs" />
     <Compile Include="Assets\Task1\Src\ClickCounterView.cs" />
+    <Compile Include="Assets\Task2\Src\CubeSpawnManager.cs" />
+    <Compile Include="Assets\Task2\Src\DataInputController.cs" />
+    <Compile Include="Assets\Task2\Src\DataInputModel.cs" />
+    <Compile Include="Assets\Task2\Src\DataInputView.cs" />
+    <Compile Include="Assets\Task2\Src\SpawnedCubeBehaviour.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/DM_Git/Gyre_Rig-TestTask/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
